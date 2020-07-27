@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, ya'll! 👋
+
+- 🔭 I’m currently working on building my online presense. Most of my work is for the government and not available for the public, so I wanna make a bunch of side projects to show off my skilzz 🔥.
+- 🌱 I wanna learn a bunch of new stuff and get better at what I do know. I made a goal to start and/or finish a repl or codepen each day.
+- ⚡ Fun fact:
+   * I am a Marine Corps Veterand and professionally trained K9 Handler.
+
+
 
 <!--
 **ButlerFuqua/butlerfuqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
