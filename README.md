@@ -1,6 +1,10 @@
 ### Hey, ya'll! 👋
 
-- 🔭 Most of my work is for the government and not available for the public, so I wanna make a bunch of side projects to show off my skilzz 🔥.
+
+I've only recently started adding to my GitHub, but I've committed to spend at least an hour or two every day on side projects.
+
+
+- 🔭 Most of my work is for the government and not available for the public, so I'm using my GitHub for side projects when I find the time 🔥.
 - 🌱 I wanna learn a bunch of new stuff and get better at what I do know. I made a goal to start and/or finish a repl or codepen each day.
 - ⚡ Fun fact:
    * I am a Marine Corps Veterand and professionally trained K9 Handler.
