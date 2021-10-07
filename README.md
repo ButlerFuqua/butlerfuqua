@@ -6,7 +6,7 @@ I'm trying to build out some good starter apps for others to use while I'm build
 
 ## Some of my work experience 🏢👨‍💻👩‍💼💻👨‍💻
 
-In short, I have a vast skillset due to the various projects I've worked on. JavaScript is defenitly my strength and Web Development is my forte.
+**In short**, I have a vast skillset due to the various projects I've worked on. JavaScript is defenitly my strength and Web Development is my forte.
 
 I like working in the pipline with automated testing, containerization (Docker), and deploying.
 
