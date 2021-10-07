@@ -4,6 +4,12 @@
 
 I'm trying to build out some good starter apps for others to use while I'm building my suite of hobby apps.
 
+## Stay updated
+
+[My most recent project - A Travel site for people going on vaction to Hawai'i](https://www.oneweekinhawaii.com/)
+
+> The Hawaii site is a comming soon page for now, so stay tuned.
+
 ## Some of my work experience 🏢👨‍💻👩‍💼💻👨‍💻
 
 **In short**, I have a vast skillset due to the various projects I've worked on. JavaScript is defenitly my strength and Web Development is my forte.
