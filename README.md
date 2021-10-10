@@ -1,8 +1,10 @@
 ### HI, there!  👋
 
-**I'm an experienced Frontend/Full stack developer, and I love Jamstack apps (My favorite is Nuxt/Vue with Vercel hosting).**
+I'm an experienced Frontend/Full stack developer, and I love Jamstack apps. 
 
-I'm trying to build out some good starter apps for others to use while I'm building my suite of hobby apps.
+My go-to is Nuxt/Vue with static hosting, and serverless functions with a MongoDb database.
+
+I'm trying to build out some good boiler plate code for others to use while I'm building my suite of hobby apps.
 
 ## Stay updated
 
