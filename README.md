@@ -6,6 +6,8 @@ I have a unique background as an engineer becasue I spent the first part of my c
 
 I'm fluent in `TypeScript/JavaScript`, and my favorite framework (ATM) is `Next.js`. I also love creating `API`s in `Node` & `TypeScript`.
 
+My dedication to coding began because ***I'm fascinating with providing something interactive to end users***. This gives me energy each day to learn more, produce more, and stick with anything. 
+
 # Skills 🤹
 
 | Frontend              | API                | DevOps           | Database      | Agile           |
@@ -36,3 +38,9 @@ I wish I had more time to master Dart and become a Flutter expert. I feel like I
 ## Rust, Go, and Python 📙
 
 I keep seeing these languages, and I want to dive into them so badly! It'd be so cool to have a paid reason to go in depth with one or more of these languages.
+
+## Machine Learning 🤖
+
+At first I hesitated to put this on my list because it feels a little band-wagony, BUT I am really excited about how I can leverage AI and machine learning in my development workflow.
+
+There are so many opporunities to create cool, interactive products.
