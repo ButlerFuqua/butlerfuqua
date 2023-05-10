@@ -41,6 +41,6 @@ I keep seeing these languages, and I want to dive into them so badly! It'd be so
 
 ## Machine Learning 🤖
 
-At first I hesitated to put this on my list because it feels a little band-wagony, BUT I am really excited about how I can leverage AI and machine learning in my development workflow.
+I am really excited about how I can leverage AI and machine learning in my development workflow.
 
 There are so many opporunities to create cool, interactive products.
