@@ -2,11 +2,11 @@
 
 # About me
 
-I have a unique background as an engineer becasue I spent the first part of my career as an artist and animator. Then I found a love 🧡 for creating things with code 👨‍💻.
+I have a unique background as an engineer because I spent the first part of my career as an artist and animator. Then I found a love 🧡 for creating things with code 👨‍💻.
 
 I'm fluent in `TypeScript/JavaScript`, and my favorite framework (ATM) is `Next.js`. I also love creating `API`s in `Node` & `TypeScript`.
 
-My dedication to coding began because ***I'm fascinated with providing something interactive to end users***. This gives me energy each day to learn more, produce more, and stick with anything. 
+My dedication to coding began because ***I'm fascinated with providing something interactive to end users***. This gives me the energy to learn more, produce more, and stick with anything. 
 
 # Skills 🤹
 
