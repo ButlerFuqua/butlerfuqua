@@ -6,7 +6,7 @@ I have a unique background as an engineer becasue I spent the first part of my c
 
 I'm fluent in `TypeScript/JavaScript`, and my favorite framework (ATM) is `Next.js`. I also love creating APIs in Node & TypeScript.
 
-# Skills
+# Skills 🤹
 
 | Frontend              | API                | DevOps           | Database      | Agile           |
 |-----------------------|--------------------|------------------|---------------|-----------------|
