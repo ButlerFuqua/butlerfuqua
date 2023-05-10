@@ -6,7 +6,7 @@ I have a unique background as an engineer becasue I spent the first part of my c
 
 I'm fluent in `TypeScript/JavaScript`, and my favorite framework (ATM) is `Next.js`. I also love creating `API`s in `Node` & `TypeScript`.
 
-My dedication to coding began because ***I'm fascinating with providing something interactive to end users***. This gives me energy each day to learn more, produce more, and stick with anything. 
+My dedication to coding began because ***I'm fascinated with providing something interactive to end users***. This gives me energy each day to learn more, produce more, and stick with anything. 
 
 # Skills 🤹
 
