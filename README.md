@@ -18,6 +18,6 @@ I'm fluent in `TypeScript/JavaScript`, and I love the web! 🤟🏻🕸️👦
 | TypeScript/JavaScript | Node/TypeScript    | Docker           | Postgres      | Daily Scrum     |
 | React, Vue            | Express.js         | CI/CD, SonarQube | MongoDB       | Jira            |
 | Next, Nuxt            | Unit Testing (TDD) | AWS, GCP         | Mongoose ODM  | Sprint planning |
-| Redux, Vuex           | Postman            | Git, SVN         | Prisma ORM    | Demos           |
+| Redux, Vuex           | C#/.Net            | Git, SVN         | Prisma ORM    | Demos           |
 | Unit Testing (TDD)    | REST               | GitHub, GitLab   | Sequelize ORM | Pointing        |
-| Tailwind, Material UI | C#/.Net            | Terraform        | Redis         | Communication   |
+| Tailwind, Material UI | Postman            | Terraform        | Redis         | Communication   |
