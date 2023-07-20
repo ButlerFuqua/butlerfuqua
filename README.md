@@ -2,13 +2,13 @@
 
 I'm fluent in `TypeScript/JavaScript`, and I love the web! 🤟🏻🕸️👦
 
-🏢 Building projects from scratch
-🏗️ Frontend Frameworks: Next, Vue, Svelte, and more
-📡 API Integrations, Node, C#, REST, SQL
-🧪 Unit tests
-🏢 Agency work
-🍔 Ask me about anything full stack!
-🎥 Fun fact: I'm a total cinephile.
+- 🏢 Building projects from scratch
+- 🏗️ Frontend Frameworks: Next, Vue, Svelte, and more
+- 📡 API Integrations, Node, C#, REST, SQL
+- 🧪 Unit tests
+- 🏢 Agency work
+- 🍔 Ask me about anything full stack!
+- 🎥 Fun fact: I'm a total cinephile.
 
 
 # Skills 🤹
