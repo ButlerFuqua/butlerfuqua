@@ -5,7 +5,7 @@
 ---
 
 ## Summary
-Senior Front-End Developer with 7+ years of experience in multiple front-end positions launching and maintaining web apps and mentoring dev teams. Focused on clean code and user-centered design.
+Senior Front-End Developer with 8+ years of experience in multiple front-end positions launching and maintaining web apps and mentoring dev teams. Focused on clean code and user-centered design.
 
 ---
 
